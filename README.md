@@ -3,7 +3,7 @@ iPython Notebook for CSE 416 Kaggle Competition via https://www.kaggle.com/c/cse
 
 Team name: sophiawhe
 
-Public dataset accuracy: 0.97611
+Public dataset accuracy: 0.97611 (scoring top 25%)
 
 ## Methods
 - Decision Tree Classifier
